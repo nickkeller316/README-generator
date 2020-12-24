@@ -24,7 +24,7 @@ ${data.licenseBadge}
 # Questions 
 ${data.emailaddress} <br/>
 Github user name: ${data.githubusername} <br/>
-${data.avatar}
+![profile-picture](${data.avatar}=100x)
 `;
 }
 
