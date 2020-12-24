@@ -1,5 +1,5 @@
 
-  # README-generator
+  # shea
   # Table of Contents:
   - [Installation](#Installation)
   - [Usage](#Usage)
@@ -8,15 +8,15 @@
   - [Test](#Test)
   - [Questions](#Questions)             
 # Description
-A README.md file generator based on user input
+ss
 # Installation
-Node, required dependencies (npm i, see package,json)
+dd
 # Usage 
-Run the program via node index.js in your terminal
+ff
 # Contributing
-Nick Keller was the only contributer for this project. Email me if you would like to contribute.
+rr
 # Tests
-node index.js
+tt
 # License 
 ![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
 # Questions 
