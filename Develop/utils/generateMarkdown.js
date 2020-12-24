@@ -22,6 +22,8 @@ ${data.tests}
 # License 
 ${data.licenseBadge}
 # Questions 
+Please take a look at the documentation in my github repository for "README-generator" 
+and email me if you have any questions!
 ${data.emailaddress} <br/>
 Github user name: ${data.githubusername} <br/>
 [profile-picture](${data.avatar}=100x)
