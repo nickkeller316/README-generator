@@ -22,8 +22,8 @@ ${data.tests}
 # License 
 ${data.licenseBadge}
 # Questions 
-${data.emailaddress}
-${data.githubusername}
+${data.emailaddress} <br/>
+Github user name: ${data.githubusername} <br/>
 ${data.avatar}
 `;
 }
