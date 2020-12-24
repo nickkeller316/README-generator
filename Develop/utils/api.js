@@ -1,4 +1,4 @@
-
+//need this for the github url and profile picture
 const axios = require("axios");
 
 function api(username) {
@@ -7,4 +7,5 @@ function api(username) {
     console.log(`User not found`);
   });
 }
+//exporting the file to be used in index.js
 module.exports = api;

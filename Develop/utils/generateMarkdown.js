@@ -29,6 +29,6 @@ Github user name: ${data.githubusername} <br/>
 [profile-picture](${data.avatar}=100x)
 `;
 }
-
+//exporting the file to be used in index.js
 module.exports = generateMarkdown;
 
