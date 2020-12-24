@@ -11,30 +11,30 @@
 
 # Description
 
-This project creates a good README.md file for the user via node.js
+For this project I created a README generator via node.js
 
 # Installation
 
-The user must have node.js installed and the required dependencies
+install node and the required dependencies (see package.json
 
 # Usage
 
-Enter information about your project in the node.js via user input in the terminal command line
+Use node index.js
 
 # Contributing
 
-Nick Keller made this project
+Nick Keller
 
 # Tests
 
-Run node index.js in your terminal
+node index.js
 
 # License
 
-![GNU AGPLv3](https://img.shields.io/badge/GNU-AGPLv3-orange)
+![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
 
 # Questions
 
-nike0821@colorado.edu
-nickkeller316
+nike0821@colorado.edu <br/>
+Github user name: nickkeller316 <br/>
 https://avatars0.githubusercontent.com/u/63823824?v=4
