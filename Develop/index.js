@@ -79,7 +79,7 @@ function writeToFile(fileName, data) {
     });
 }
 
-//initializing the function
+//initializing the program
 function init() {
     inquirer.prompt(questions).then((response) => {
         let data = { ...response };
