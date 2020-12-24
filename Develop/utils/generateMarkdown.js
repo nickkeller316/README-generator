@@ -19,6 +19,12 @@ ${data.usage}
 ${data.contributing}
 # Tests
 ${data.tests}
+# License 
+${data.licenseBadge}
+# Questions 
+${data.emailaddress}
+${data.githubusername}
+${data.avatar}
 `;
 }
 
